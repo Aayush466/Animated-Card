@@ -3,6 +3,7 @@ import AnimatedCard from "./components/Cards/AnimatedCard";
 
 const App = () => {
   return (
+    //test command//
     <div className="min-h-screen bg-gradient-to-br from-primary to-primary/70 grid place-items-center">
       <AnimatedCard />
     </div>
